@@ -1,2 +1,2 @@
-# Example-CSS-Animations-
-My examples of css animation
+# Example-CSS3-Animations-
+My examples of css3 animation
